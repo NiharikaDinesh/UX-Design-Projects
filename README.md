@@ -42,7 +42,7 @@ Working adults and commuters struggle to find time to prepare healthy meals, and
 Designed a website prototype for discovering and following DIY tutorials, focused on clean navigation and an intuitive browsing experience across devices.
 
 ### Links
-🔗 [Figma Prototype]([https://www.figma.com/proto/oZ5oCT3zVrto159FyIYCzP/A-Website-for-DIY-Tutorials](https://www.figma.com/proto/oZ5oCT3zVrto159FyIYCzP/A-Website-for-DIY-Tutorials?node-id=15-1845&starting-point-node-id=15%3A1845&t=uW3MFEBbzbsfi4XR-1))
+🔗 [Figma Prototype]([https://www.figma.com/proto/oZ5oCT3zVrto159FyIYCzP/A-Website-for-DIY-Tutorials](https://www.figma.com/proto/oZ5oCT3zVrto159FyIYCzP/A-Website-for-DIY-Tutorials?node-id=15-1845&starting-point-node-id=15%3A1845&t=uW3MFEBbzbsfi4XR-1)
 
 ---
 
