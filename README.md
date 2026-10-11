@@ -29,7 +29,7 @@ Working adults and commuters struggle to find time to prepare healthy meals, and
 
 ### Links
 🔗 [Figma Prototype](https://www.figma.com/proto/WHLiEq9Tai8Kd7B3GqtbKB/Mobile-App-for-a-Gourmet-Sandwich-Shop?node-id=140-645&starting-point-node-id=140%3A645&t=YymS5GKpZqZPt773-1)
-📄 [View Case Study (PDF)](#)
+📄 [View Case Study (PDF)](https://github.com/NiharikaDinesh/UX-Design-Projects/blob/main/Google%20UX%20Design%20Certificate%20-%20Portfolio%20Project%201-GSS%20-%20Case%20study%20slide%20deck.pdf)
 
 ---
 
